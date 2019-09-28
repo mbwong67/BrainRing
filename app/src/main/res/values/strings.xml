@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BrainRing</string>
+
+    <string name="question_text">Hello, World!</string>
+
+    <string name="button_1">1</string>
+    <string name="button_2">2</string>
+    <string name="button_3">3</string>
+    <string name="button_4">4</string>
+
+    <string name="next_button"> Следующий вопрос </string>
+</resources>
